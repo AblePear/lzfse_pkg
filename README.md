@@ -1,5 +1,5 @@
-LZFSE for OS X
-==============
+LZFSE for macOS
+===============
 
 This project builds a standard macOS installer package for [LZFSE][1]. 
 
